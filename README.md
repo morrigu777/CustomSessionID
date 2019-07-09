@@ -1,4 +1,4 @@
- #Why is this a thing? 
+Why is this a thing? 
              
   During some user testing of one of our web applications they wanted us to display the ASP.Net Session ID's 
 in the page header because reasons and some users were reporting back that we were "inserting foul language" 
